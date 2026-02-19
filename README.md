@@ -19,19 +19,33 @@
 ---
 
 ```python
-class AffifWafi:
-    def __init__(self):
-        self.name       = "Affif Wafi"
-        self.age        = 19
-        self.location   = "Kuala Nerang, Kedah 🇲🇾"
-        self.education  = "Foundation @ Kolej MARA Kuala Nerang"
-        self.graduating = "June 2026"
-        self.next_step  = "Entering B.Sc. Computer Science @ MMU (Sept 2026)"
-        self.languages  = ["C++", "Python"]
-        self.status     = "Building, breaking, and debugging things."
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
-    def say_hi(self):
-        print("Hey, glad you stopped by. Have a look around.")
+class MiyukiGit {
+public:
+    string name       = "Affif Wafi";
+    int    age        = 19;
+    string location   = "Kuala Nerang, Kedah 🇲🇾";
+    string education  = "Foundation @ Kolej MARA Kuala Nerang";
+    string graduating = "June 2026";
+    string next_step  = "Entering Banchelor of Computer Science @ MMU (Sept 2026)";
+    vector<string> languages = {"C++", "Python"};
+    string status     = "Building, breaking, and debugging things.";
+
+    void say_hi() {
+        cout << "Hey, glad you stopped by. Have a look around." << endl;
+  }
+};
+
+int main() {
+    MiyukiGit miyuki;
+    miyuki.say_hi();
+    return 0;
+}
+
 ```
 ## 🌐 Socials:
 
