@@ -12,13 +12,13 @@
 
 ### `> Affif Wafi — CS Student & Aspiring Developer`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Learning+one+bug+at+a+time...;C%2B%2B+%7C+Python+enthusiast;Future+CS+grad+%40+MMU+%7C+2026)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Building+one+project+at+a+time...;C%2B%2B+%7C+JavaScript+%7C+Python;Software+Engineering+%40+MMU)
 
 </div>
 
 ---
 
-```python
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
@@ -27,12 +27,11 @@ using namespace std;
 class MiyukiGit {
 public:
     string name       = "Affif Wafi";
-    int    age        = 19;
     string location   = "Kuala Nerang, Kedah 🇲🇾";
-    string education  = "Foundation @ Kolej MARA Kuala Nerang";
-    string graduating = "June 2026";
-    string next_step  = "Entering Banchelor of Computer Science @ MMU (Sept 2026)";
-    vector<string> languages = {"C++", "Python"};
+    string education  = "BSc (Hons.) Software Engineering @ MMU";
+    string graduating = "Expected 2030";
+    string next_step  = "Building web, mobile and AI projects.";
+    vector<string> languages = {"C++", "Python", "JavaScript", "TypeScript", "Java", "Swift"};
     string status     = "Building, breaking, and debugging things.";
 
     void say_hi() {
@@ -56,9 +55,9 @@ int main() {
 
 <img align="right" width="300" src="https://i.pinimg.com/1200x/62/02/60/6202604a5183f64600f4068e354f302c.jpg" alt="coding gif"/>
 
-I'm a **19-year-old CS student** from Malaysia, currently finishing my foundation at **Kolej MARA Kuala Nerang** before heading into a Computer Science degree at **Multimedia University (MMU)** in September 2026. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
+I'm a **CS student** from Malaysia, pursuing a **Bachelor of Computer Science (Hons.) in Software Engineering** at **Multimedia University (MMU)**. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
 
-Still early in the journey — but that's the fun part.
+These days I'm building with C++, JavaScript and Python — from offline-first PWAs and web apps to C++ systems projects. Still early in the journey, but that's the fun part.
 
 <br clear="right"/>
 
@@ -70,6 +69,11 @@ Still early in the journey — but that's the fun part.
 
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -78,14 +82,17 @@ Still early in the journey — but that's the fun part.
 
 ## `~/projects`
 
-> ⚠️ *Things are taking shape. Watch this space.*
+> A few things I've built — live links where available.
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 📚 [`Library-Management-System`](https://github.com/MiyukiGit/Library-Management-System) | A full library management system | C++ | ✅ Built |
-| 🐍 `coming-soon` | Something in Python | Python | 🧪 Planning |
+| 🏋️ [`GYMIX`](https://github.com/MiyukiGit/gymix) | Offline-first workout PWA with a 110-exercise library, interactive anatomy map and progress analytics. [Live demo](https://miyukigit.github.io/gymix/) | React, TypeScript, PWA | 🚀 Live |
+| 📚 [`LIBRIX`](https://github.com/MiyukiGit/librix) | Library system that grew from a C++ console app into a web app with catalogue and lending records. [Live demo](https://miyukigit.github.io/librix/) | C++, Node.js, SQLite | 🚀 Live |
+| 💸 [`AI Expense Tracker`](https://github.com/MiyukiGit) | Cross-platform expense logging with AI parsing, merchant matching and custom charts. | Swift, Java, JavaScript | 🚧 Building |
+| 🛒 [`PipiNiq Grocery`](https://github.com/MiyukiGit) | C++ grocery management system with checkout and receipts. | C++ | ✅ Built |
+| 🏧 [`ATM System`](https://github.com/MiyukiGit) | Simulated ATM with account management and transaction logging. | C++ | ✅ Built |
 
-*Projects will be pinned here as they take shape. Building quietly.*
+*More on [my portfolio](https://miyukigit.github.io/) and [GitHub](https://github.com/MiyukiGit).*
 
 ---
 
@@ -110,6 +117,6 @@ Still early in the journey — but that's the fun part.
 ╚══════════════════════════════════════╝
 ```
 
-*— Affif Wafi, 2025*
+*— Affif Wafi, 2026*
 
 </div>
