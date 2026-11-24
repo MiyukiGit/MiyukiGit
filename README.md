@@ -27,7 +27,7 @@ using namespace std;
 class MiyukiGit {
 public:
     string name       = "Affif Wafi";
-    string location   = "Kuala Nerang, Kedah 🇲🇾";
+    string location   = "Puncak Alam";
     string education  = "BSc (Hons.) Software Engineering @ MMU";
     string graduating = "Expected 2030";
     string next_step  = "Building web, mobile and AI projects.";
